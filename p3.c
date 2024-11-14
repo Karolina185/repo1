@@ -3,8 +3,5 @@
 int main(){
 	printf("Siemaneczko");
 	printf("Pozdrawiam");
-	printf("Nwm");
-	printf("komputer");
-	printf("czesc");
 	return 0;
 }
